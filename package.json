@@ -1,0 +1,23 @@
+{
+  "name": "freemind-renderer",
+  "version": "1.0.0",
+  "description": "Rendering freemind map files to d3 tree and html",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terminological/npm-modules.git"
+  },
+  "keywords": [
+    "freemind",
+    "d3"
+  ],
+  "author": "Rob Challen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/terminological/npm-modules/issues"
+  },
+  "homepage": "https://github.com/terminological/npm-modules#readme"
+}
